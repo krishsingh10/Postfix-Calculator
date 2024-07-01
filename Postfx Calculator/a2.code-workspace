@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../codes on c++"
+		},
+		{
+			"path": "../../love babber/class codes"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"stdexcept": "cpp"
+		}
+	}
+}
